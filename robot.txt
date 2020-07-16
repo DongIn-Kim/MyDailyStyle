@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+Sitemap: https://mydailystyle.site/sitemap.xml
