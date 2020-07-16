@@ -275,9 +275,16 @@ h3 {
     font-size: 2rem;
     color: #35465d;
 }
-#copyright{
-	 margin: 0 auto;
+#copyright {
+    margin: 0 auto;
     font-size: 0.7rem;
     text-align: center;
     color: #35465d;
+}
+.kakao_ad_area {
+    width: 100% !important;
+    text-align: center;
+}
+.kakao_ad_area iframe {
+    position: ingerit !important;
 }
