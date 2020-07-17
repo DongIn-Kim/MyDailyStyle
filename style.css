@@ -52,7 +52,7 @@ body {
     border-radius: 10px;
     border: dashed 4px #35465d;
     background-color: #ffffff;
-    width: 58%;
+    width: 48%;
     margin: 0 auto;
 }
 .image-dropping,
@@ -78,8 +78,8 @@ body {
     line-height: 1.53;
 }
 .file-upload-image {
-    max-height: 200px;
-    max-width: 200px;
+    max-height: 500px;
+    max-width: 400px;
     margin: auto;
     padding: 20px;
 }
@@ -142,8 +142,8 @@ body {
     }
 }
 .rectangle {
-    width: 914px;
-    height: 700px;
+    width: 200px;
+    height: 300px;
     border-radius: 10px;
     border: solid 1.5px #f6f7fa;
     background-color: #f6f7fa;
